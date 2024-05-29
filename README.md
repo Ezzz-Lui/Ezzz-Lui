@@ -4,7 +4,7 @@
   </h1>  
   <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/SVG/astro.svg" title="Astro" **alt="Astro">
+  <img src="/SVG/astro.svg" title="Astro" **alt="Astro" width="40" height="40">
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%2B%2B-logo.svg" title="C++" **alt="C++" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
