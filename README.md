@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="/SVG/postgres.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 
   <br>
   <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
