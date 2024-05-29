@@ -27,7 +27,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/SVG/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/ms-SQL-Logo.svg" title="MS-SQL" alt="MS-SQL" width="40" height="40"/>
+  <img src="/SVG/sqlServer.svg" title="MS-SQL" alt="MS-SQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
