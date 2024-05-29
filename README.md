@@ -10,10 +10,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/SVG/nextJS.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="38" height="38"/>
