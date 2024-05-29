@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/SVG/platzi.svg" title="Platzi" alt="Platzi" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+  <img src="/SVG/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/ms-SQL-Logo.svg" title="MS-SQL" alt="MS-SQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
