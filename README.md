@@ -75,3 +75,6 @@
 <br></br>
 <h1 align="center">Hi 👋, I'm Luis Ramos</h1>
 <h3 align="center">"Building pipelines is like assembling a complex machine: each well-designed stage is an essential gear that ensures the perfect flow of your data."</h3>
+
+<h1 align="center">TOP Skills</h1>
+<img src="/SVG/gitlab.svg" title="Gitlab" alt="Gitlab" width="60" height="60"/>
