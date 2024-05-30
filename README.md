@@ -66,9 +66,11 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/SVG/atlassian.svg" title="Atlassian" alt="Atlassian" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-lang-icon.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
+  <img src="/SVG/copilot.svg" title="Copilot" alt="Copilot" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/SVG/idx.svg" title="idx" alt="idx" width="40" height="40"/>
   </div>
 <br></br>
 <h1 align="center">Hi 👋, I'm Luis Ramos</h1>
