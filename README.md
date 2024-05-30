@@ -32,6 +32,8 @@
   <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/SVG/postgres.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/SVG/azure.svg" title="Azure" alt="Azure" width="40" height="40"/>
 
   <br>
   <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
