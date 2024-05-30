@@ -39,17 +39,17 @@
   <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
   <br>
   
-  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="38" height="38"/>
+  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/github-logo-purple.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
+  <img src="/SVG/discord.svg" title="discord" alt="discord" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="35" height="35"/>
+  <img src="/SVG/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" title="SOAP-UI" alt="SOAP-UI" width="40" height="auto"/>
+  <img src="/SVG/gitlab.svg" title="Gitlab" alt="Gitlab" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
