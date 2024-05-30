@@ -58,13 +58,13 @@
 
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
+  <img src="/SVG/openAI.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>
    &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="43" height="auto"/>
+  <img src="/SVG/cloudfare.svg" title="Cloudfare" alt="Cloudfare" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" title="Cisco Networking" alt="Cisco Networking" width="42" height="33"/>
+  <img src="/SVG/atlassian.svg" title="Atlassian" alt="Atlassian" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-lang-icon.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
