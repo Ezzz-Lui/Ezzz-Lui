@@ -9,7 +9,7 @@ Welcome to my GitHub repository. Currently, I am immersed in learning and explor
 </p>
 
 <h1 align="center">About me</h1>
-🔭 I’m currently study Intelligent Computer Engineering Technician.<br>👯 I’m looking to collaborate on Cloud Native and Software projects.<br>🌱 I’m currently learning:<br>       - Cloud architecture<br>       - Backend Development with NestJS and Typescript<br>       - Database administration with SQL (SQL Server, MySQL, PostgreSQL)<br>💬 Ask me about Backend Development:<br>        - Typescript<br>        - Javascript<br>        - Python for data analyst<br>        - SQL<br>⚡ Fun fact I'm a league of legends player
+🔭 I’m currently study Intelligent Computer Engineering Technician.<br>👯 I’m looking to collaborate on Cloud Native and Software projects.<br>🌱 I’m currently learning:<br>       - Cloud architecture<br> - Azure AI Services: Generative AI Soltions, Azure Vision Solutions, Azure Conversational IA Solutions<br>       - Backend Development with NestJS and Typescript<br>       - Database administration with SQL (SQL Server, MySQL, PostgreSQL)<br>💬 Ask me about Backend Development:<br>        - Typescript<br>        - Javascript<br>        - Python for data analyst<br>        - SQL<br>⚡ Fun fact I'm a league of legends player
 
 
 # 📊 GitHub Stats:
