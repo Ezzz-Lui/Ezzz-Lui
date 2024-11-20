@@ -15,6 +15,7 @@ Welcome to my GitHub repository. Currently, I am immersed in learning and explor
 # 📊 GitHub Stats
 ![Ezzz-Lui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ezzz-Lui&theme=gotham&hide_border=false)
 ![Ezzz-Lui's Stats](https://github-readme-stats.vercel.app/api?username=Ezzz-Lui&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![Ezzz-Lui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzz-Lui&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![Ezzz-Lui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzz-Lui&hide=css&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+
 # 🎵While coding...
 <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31utu5wegdlp5aawfenema4jec4y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"></img>
