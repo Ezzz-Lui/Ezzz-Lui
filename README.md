@@ -1,5 +1,6 @@
 <h1 align="center">👋Hello Everyone!</h1>
-Welcome to my GitHub repository. Currently, I am immersed in learning and exploring backend development and the cloud. I am delving into technologies such as NestJS, React, TypeScript, JavaScript, PostgreSQL, SQL Server, Python for data analytics with Power Apps for BI, as well as implementations with Azure and AWS cloud services.
+<h3 align="center">Backend Developer | Azure AI Engineer Associate | Data Analyst | DevOps | MLO </h3>
+I am immersed in learning and exploring backend development and the cloud. I am delving into technologies such as NestJS, React, TypeScript, JavaScript, PostgreSQL, SQL Server, Python for data analytics with Power Apps for BI, as well as implementations with Azure and AWS cloud services.
 <br></br>
 <h2 align="left">🚀Main Tech Stack</h2>
 <p align="center">
@@ -18,4 +19,4 @@ Welcome to my GitHub repository. Currently, I am immersed in learning and explor
 ![Ezzz-Lui's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzz-Lui&hide=css,Jupyter%20Notebook&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 # 🎵While coding...
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31utu5wegdlp5aawfenema4jec4y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"></img>
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31utu5wegdlp5aawfenema4jec4y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" align="center"></img>
