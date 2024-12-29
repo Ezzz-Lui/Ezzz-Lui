@@ -5,7 +5,7 @@ I am immersed in learning and exploring backend development and the cloud. I am 
 <h2 align="left">🚀Main Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,astro,graphql,postgres,nest,nodejs,express,azure,gitlab,aws"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,django,react,nextjs,astro,tailwind,prisma,docker,postgres,nest,nodejs,azure,supabase"/>
   </a>
 </p>
 
