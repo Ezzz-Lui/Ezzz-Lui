@@ -18,5 +18,5 @@ I am immersed in learning and exploring backend development and the cloud. I am 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ezzz-lui&theme=gotham&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzz-lui&hide=css,Jupyter%20Notebook&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Coding...
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31utu5wegdlp5aawfenema4jec4y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" align="center"></img>
+# 😁👍
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utu5wegdlp5aawfenema4jec4y&unique={true|1|on|yes})
