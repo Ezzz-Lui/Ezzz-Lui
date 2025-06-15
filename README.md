@@ -10,8 +10,24 @@ I am immersed in learning and exploring backend development and the cloud. I am 
 </p>
 
 <h1 align="center">About me</h1>
-🔭 I’m currently study Intelligent Computer Engineering Technician.<br>👯 I’m looking to collaborate on Cloud Native and Software projects.<br>🌱 I’m currently learning:<br>       - Cloud architecture<br> - Azure AI Services: Generative AI Soltions, Azure Vision Solutions, Azure Conversational IA Solutions<br>       - Backend Development with NestJS and Typescript<br>       - Database administration with SQL (SQL Server, MySQL, PostgreSQL)<br>💬 Ask me about Backend Development:<br>        - Typescript<br>        - Javascript<br>        - Python for data analyst<br>        - SQL<br>⚡ Fun fact I'm a league of legends player
+👋 Hey there! I'm currently studying Intelligent Computer Engineering and diving deep into the world of software and cloud-native technologies.
 
+🌥️ I'm especially interested in:
+- Cloud architecture & Azure AI Services (Generative AI, Vision, Conversational AI)
+- Backend development with **NestJS** and **TypeScript**
+- Database management using **SQL Server**, **MySQL**, and **PostgreSQL**
+
+💻 I love building stuff with:
+- **TypeScript**, **JavaScript**
+- **Python** (for data analysis and APIs)
+- **React and NextJS** for enterprise apps.
+- **Vue** for Personal projects and systems.
+- **Astro** for content pages or landings.
+- Good ol' **SQL** for everything data.
+
+🤝 Always up to collaborate on cool backend or cloud-native projects!
+
+⚡ Fun fact: I'm a League of Legends player — yes.
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ezzz-lui&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
