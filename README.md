@@ -30,9 +30,4 @@ I am immersed in learning and exploring backend development and the cloud. I am 
 ⚡ Fun fact: I'm a League of Legends player — yes.
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Ezzz-lui&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ezzz-lui&theme=gotham&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezzz-lui&hide=css,Jupyter%20Notebook&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 😁👍
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31utu5wegdlp5aawfenema4jec4y&unique={true|1|on|yes})
