@@ -1,5 +1,5 @@
 <h1 align="center">👋Hello Everyone!</h1>
-<h3 align="center">Backend Developer | Azure AI Engineer Associate | Data Analyst | DevOps | MLO </h3>
+<h3 align="center">Fullstack Software Developer | Azure AI Engineer Associate | Data Analyst </h3>
 I am immersed in learning and exploring backend development and the cloud. I am delving into technologies such as NestJS, React, TypeScript, JavaScript, PostgreSQL, SQL Server, Python for data analytics with Power Apps for BI, as well as implementations with Azure and AWS cloud services.
 <br></br>
 <h2 align="left">🚀Main Tech Stack</h2>
@@ -10,7 +10,7 @@ I am immersed in learning and exploring backend development and the cloud. I am 
 </p>
 
 <h1 align="center">About me</h1>
-👋 Hey there! I'm currently studying Intelligent Computer Engineering and diving deep into the world of software and cloud-native technologies.
+👋 Hey there! I'm currently studying Software Engineering and Data Science, diving deep into the world of software and cloud-native technologies.
 
 🌥️ I'm especially interested in:
 - Cloud architecture & Azure AI Services (Generative AI, Vision, Conversational AI)
